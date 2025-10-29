@@ -1,0 +1,5 @@
+StudentID,StudentName,Physics,Geography,Math,Semester
+100100,Alpha,65,54.0,78,2025S1
+100102,Beta,70,62.0,80,2025S1
+100103,Gamma,32,71.0,96,2025S1
+100104,Delta,60,,-10,2025-S1
